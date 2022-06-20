@@ -1,0 +1,14 @@
+D:\MG_FinalProject_CS\BL\bin\Debug\BL.dll
+D:\MG_FinalProject_CS\BL\bin\Debug\BL.pdb
+D:\MG_FinalProject_CS\BL\bin\Debug\DAL.dll
+D:\MG_FinalProject_CS\BL\bin\Debug\DTO.dll
+D:\MG_FinalProject_CS\BL\bin\Debug\EntityFramework.dll
+D:\MG_FinalProject_CS\BL\bin\Debug\DAL.pdb
+D:\MG_FinalProject_CS\BL\bin\Debug\DAL.dll.config
+D:\MG_FinalProject_CS\BL\bin\Debug\DTO.pdb
+D:\MG_FinalProject_CS\BL\bin\Debug\EntityFramework.xml
+D:\MG_FinalProject_CS\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\MG_FinalProject_CS\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\MG_FinalProject_CS\BL\obj\Debug\BL.csproj.CopyComplete
+D:\MG_FinalProject_CS\BL\obj\Debug\BL.dll
+D:\MG_FinalProject_CS\BL\obj\Debug\BL.pdb

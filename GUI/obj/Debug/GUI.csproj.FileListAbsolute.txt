@@ -1,0 +1,2 @@
+D:\MG_FinalProject_CS\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\MG_FinalProject_CS\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
